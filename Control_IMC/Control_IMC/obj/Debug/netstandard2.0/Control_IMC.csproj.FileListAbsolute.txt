@@ -1,0 +1,14 @@
+C:\Users\Abel\Documents\Visual Studio 2019\XamarinForms\Control_IMC\Control_IMC\Control_IMC\bin\Debug\netstandard2.0\Control_IMC.deps.json
+C:\Users\Abel\Documents\Visual Studio 2019\XamarinForms\Control_IMC\Control_IMC\Control_IMC\bin\Debug\netstandard2.0\Control_IMC.dll
+C:\Users\Abel\Documents\Visual Studio 2019\XamarinForms\Control_IMC\Control_IMC\Control_IMC\bin\Debug\netstandard2.0\ref\Control_IMC.dll
+C:\Users\Abel\Documents\Visual Studio 2019\XamarinForms\Control_IMC\Control_IMC\Control_IMC\bin\Debug\netstandard2.0\Control_IMC.pdb
+C:\Users\Abel\Documents\Visual Studio 2019\XamarinForms\Control_IMC\Control_IMC\Control_IMC\obj\Debug\netstandard2.0\Control_IMC.csprojAssemblyReference.cache
+C:\Users\Abel\Documents\Visual Studio 2019\XamarinForms\Control_IMC\Control_IMC\Control_IMC\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Abel\Documents\Visual Studio 2019\XamarinForms\Control_IMC\Control_IMC\Control_IMC\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Abel\Documents\Visual Studio 2019\XamarinForms\Control_IMC\Control_IMC\Control_IMC\obj\Debug\netstandard2.0\Control_IMC.AssemblyInfoInputs.cache
+C:\Users\Abel\Documents\Visual Studio 2019\XamarinForms\Control_IMC\Control_IMC\Control_IMC\obj\Debug\netstandard2.0\Control_IMC.AssemblyInfo.cs
+C:\Users\Abel\Documents\Visual Studio 2019\XamarinForms\Control_IMC\Control_IMC\Control_IMC\obj\Debug\netstandard2.0\Control_IMC.csproj.CoreCompileInputs.cache
+C:\Users\Abel\Documents\Visual Studio 2019\XamarinForms\Control_IMC\Control_IMC\Control_IMC\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Abel\Documents\Visual Studio 2019\XamarinForms\Control_IMC\Control_IMC\Control_IMC\obj\Debug\netstandard2.0\Control_IMC.dll
+C:\Users\Abel\Documents\Visual Studio 2019\XamarinForms\Control_IMC\Control_IMC\Control_IMC\obj\Debug\netstandard2.0\ref\Control_IMC.dll
+C:\Users\Abel\Documents\Visual Studio 2019\XamarinForms\Control_IMC\Control_IMC\Control_IMC\obj\Debug\netstandard2.0\Control_IMC.pdb

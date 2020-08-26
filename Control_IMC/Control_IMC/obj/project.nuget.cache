@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "lfUHaSu8/7f+TlkODSmElWmE++QLkLr1iD8eLzbMGuIiY2pSZumtFWdA4IYQL0jErTm7BwQopFoibqoIeA7Hrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Abel\\Documents\\Visual Studio 2019\\XamarinForms\\Control_IMC\\Control_IMC\\Control_IMC\\Control_IMC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Abel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Abel\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Users\\Abel\\.nuget\\packages\\xamarin.forms\\4.8.0.1269\\xamarin.forms.4.8.0.1269.nupkg.sha512"
+  ],
+  "logs": []
+}
