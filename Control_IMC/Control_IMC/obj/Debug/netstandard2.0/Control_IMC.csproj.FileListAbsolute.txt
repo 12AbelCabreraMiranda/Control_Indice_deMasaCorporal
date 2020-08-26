@@ -12,3 +12,5 @@ C:\Users\Abel\Documents\Visual Studio 2019\XamarinForms\Control_IMC\Control_IMC\
 C:\Users\Abel\Documents\Visual Studio 2019\XamarinForms\Control_IMC\Control_IMC\Control_IMC\obj\Debug\netstandard2.0\Control_IMC.dll
 C:\Users\Abel\Documents\Visual Studio 2019\XamarinForms\Control_IMC\Control_IMC\Control_IMC\obj\Debug\netstandard2.0\ref\Control_IMC.dll
 C:\Users\Abel\Documents\Visual Studio 2019\XamarinForms\Control_IMC\Control_IMC\Control_IMC\obj\Debug\netstandard2.0\Control_IMC.pdb
+C:\Users\Abel\Documents\Visual Studio 2019\XamarinForms\Control_IMC\Control_IMC\Control_IMC\obj\Debug\netstandard2.0\Home.xaml.g.cs
+C:\Users\Abel\Documents\Visual Studio 2019\XamarinForms\Control_IMC\Control_IMC\Control_IMC\obj\Debug\netstandard2.0\Informacion_IMC.xaml.g.cs

@@ -67,114 +67,18 @@
                 HorizontalOptions="FillAndExpand" 
                 HeightRequest="3" 
                 Color="#4a4a4a"/>
-            <!--        Información del control de Peso           -->
-            <Label                
-                HorizontalTextAlignment="Center"
-                FontSize="20"
-                Margin="0,20,0,0"
-                Text="Promedio establecido del Índice de Masa Corporal">
-            </Label>
-            <Label
-                HorizontalTextAlignment="Center"
-                Text="Verifica el resultado de tu IMC y compara para ver dónde estás posicionado."/>
-
-            <Grid  
-                Margin="0,10,0,30"
-                RowSpacing="20" 
-                ColumnSpacing="5"
-                HorizontalOptions="CenterAndExpand">
-                <!--Filas-->
-                <Grid.RowDefinitions>
-                    <RowDefinition Height="180" />
-                </Grid.RowDefinitions>
-                <!--Columnas-->
-                <Grid.ColumnDefinitions>
-                    <ColumnDefinition Width="90" />
-                    <ColumnDefinition Width="*" />
-                </Grid.ColumnDefinitions>
-
-                <!--Columna 1  /Left,Top,Right,Bottom-->
-                <BoxView                     
-                    BackgroundColor="#e8e8e8"                    
-                    CornerRadius="10"
-                    Grid.Column="0"/>
-                <Label 
-                    FontAttributes="Bold"
-                    Margin="0,10,10,0"
-                    FontSize="17"
-                    HorizontalTextAlignment="End"
-                    Text="-18.5"
-                    Grid.Column="0"/>
-                <Label                     
-                    Margin="0,40,10,0"
-                    FontSize="17"
-                    HorizontalTextAlignment="End"
-                    Text="18.5-24.9"
-                    Grid.Column="0"/>
-                <Label 
-                    FontAttributes="Bold"
-                    Margin="0,70,10,0"
-                    FontSize="17"
-                    HorizontalTextAlignment="End"
-                    Text="22"
-                    Grid.Column="0"/>
-                <Label                     
-                    Margin="0,100,10,0"
-                    FontSize="17"
-                    HorizontalTextAlignment="End"
-                    Text="25-29.9"
-                    Grid.Column="0"/>
-                <Label 
-                    FontAttributes="Bold"
-                    Margin="0,130,10,0"
-                    FontSize="17"
-                    HorizontalTextAlignment="End"
-                    Text="+29.9"
-                    Grid.Column="0"/>
-                
-                <!--Columna 2-->
-                <BoxView 
-                    BackgroundColor="#cfcfcf"
-                    CornerRadius="10"
-                    Grid.Column="1"/>
-                <Label  
-                    FontAttributes="Bold"
-                    Margin="10,10,0,0"
-                    FontSize="17"
-                    HorizontalTextAlignment="Start"
-                    Text="DELGADA"
-                    Grid.Column="1"/>
-                <Label 
-                    Margin="10,40,0,0"
-                    FontSize="17"
-                    HorizontalTextAlignment="Start"
-                    Text="NORMAL"
-                    Grid.Column="1"/>
-                <Label 
-                    FontAttributes="Bold"
-                    Margin="10,70,0,0"
-                    FontSize="17"
-                    HorizontalTextAlignment="Start"
-                    Text="PESO IDEAL"
-                    Grid.Column="1"/>
-                <Label 
-                    Margin="10,100,0,0"
-                    FontSize="17"
-                    HorizontalTextAlignment="Start"
-                    Text="SOBREPESO"
-                    Grid.Column="1"/>
-                <Label 
-                    FontAttributes="Bold"
-                    Margin="10,130,0,0"
-                    FontSize="17"
-                    HorizontalTextAlignment="Start"
-                    Text="SONTROLE SU PESO"
-                    Grid.Column="1"/>
-            </Grid>
+            
             <!--Footer-->
             <Label
-                Margin="0,10,0,10"
-                Text="Developed by Abel...2020"/>
+                FontSize="10"
+                HorizontalTextAlignment="Center"
+                Margin="0,10,0,0"
+                Text="App for iOS and Android / Developed by Abel"/>
+            <Label
+                FontSize="10"
+                HorizontalTextAlignment="Center"
+                Margin="0,0,0,10"
+                Text="25 de agosto 2020"/>
 
         </StackLayout>
     </ScrollView>

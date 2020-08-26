@@ -10,7 +10,9 @@ namespace Control_IMC
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new Home();
+            //Background color
+            //MainPage.SetValue(NavigationPage.BarBackgroundColorProperty, Color.White);
         }
 
         protected override void OnStart()

@@ -15,6 +15,7 @@ namespace Control_IMC
     {
         public MainPage()
         {
+            NavigationPage.SetHasNavigationBar(this, false);
             InitializeComponent();
         }
 
